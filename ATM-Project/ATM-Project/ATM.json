@@ -1,0 +1,190 @@
+{
+  "FirstName": "John",
+  "LastName": "Doe",
+  "CardDetails": {
+    "CardNumber": "1234-5678-9012-3456",
+    "ExpirationDate": "12/25",
+    "CVC": "123"
+  },
+  "PinCode": "1104",
+  "BalanceGEL": 1160.0,
+  "BalanceUSD": 920.0,
+  "BalanceEUR": 740.0,
+  "TransactionHistory": [
+    {
+      "TransactionDate": "2024-01-03T10:15:30Z",
+      "TransactionType": "ChangePin",
+      "AmountGEL": 100.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:41:15.9440724+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 50.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:47:17.560182+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 50.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:50:32.8571665+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 500.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:50:41.1045147+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 0.0,
+      "AmountUSD": 300.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:51:12.1956776+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 250.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:51:21.0055768+04:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 10.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:55:21.5792043+04:00",
+      "TransactionType": "Currency Conversion",
+      "AmountGEL": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 130.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:57:51.8338782+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 500.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:57:56.4808803+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 90.0
+    },
+    {
+      "TransactionDate": "2024-02-13T20:58:07.6743557+04:00",
+      "TransactionType": "Currency Conversion",
+      "AmountGEL": 125.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T22:39:15.0121248+04:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 50.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T22:39:25.2649033+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 0.0,
+      "AmountUSD": 90.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T22:39:38.9883134+04:00",
+      "TransactionType": "Currency Conversion",
+      "AmountGEL": 0.0,
+      "AmountUSD": 140.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T22:44:05.4609489+04:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 50.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T22:44:22.3825981+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 80.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-13T22:44:59.2675109+04:00",
+      "TransactionType": "Currency Conversion",
+      "AmountGEL": 0.0,
+      "AmountUSD": 650.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-15T19:11:07.5461143+04:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 0.0,
+      "AmountUSD": 50.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-15T19:11:12.3137372+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 80.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-15T19:50:32.4087098+04:00",
+      "TransactionType": "Currency Conversion",
+      "AmountGEL": 200.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-15T19:51:31.61817+04:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 10.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-15T19:51:42.6025201+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 80.0
+    },
+    {
+      "TransactionDate": "2024-02-15T19:51:54.5994002+04:00",
+      "TransactionType": "Currency Conversion",
+      "AmountGEL": 0.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 240.0
+    },
+    {
+      "TransactionDate": "2024-02-15T19:56:32.4164004+04:00",
+      "TransactionType": "Withdrawal",
+      "AmountGEL": 5.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    },
+    {
+      "TransactionDate": "2024-02-16T22:04:00.7665629+04:00",
+      "TransactionType": "Deposit",
+      "AmountGEL": 50.0,
+      "AmountUSD": 0.0,
+      "AmountEUR": 0.0
+    }
+  ]
+}
